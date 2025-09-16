@@ -10,17 +10,19 @@
 
 ## Repository Structure  
 
-This repository contains solutions for **Homework 2**.  
-Each question is placed in a separate folder with code and explanation.  
+This repository contains solutions for Homework 2.  
+Each question is placed in a separate folder with code and explanation.
 
-- **Q1-BayesRule** → Bayes rule applied to text (solutions.md)  
-- **Q2-Add1Smoothing** → Add-1 smoothing calculations (solutions.md)  
-- **Q3-DocClassification** → Worked example classification (“predictable no fun”) (solutions.md)  
-- **Q4-HarmsOfClassification** → Harms in classification (solutions.md)  
-- **Q5-Metrics** → Evaluation metrics (solutions.md + metrics.py)  
-- **Q6-BigramProbabilities** → Bigram probabilities and zero-probability problem (solutions.md)  
-- **Q7-BackoffModel** → Backoff model example (solutions.md)  
-- **Q8-BigramLanguageModel** → Programming: Bigram language model (solutions.md + bigram_model.py)  
+- [Q1-BayesRule](./Q1-BayesRule/solutions.md) → Bayes rule applied to text  
+- [Q2-Add1Smoothing](./Q2-Add1Smoothing/solutions.md) → Add-1 smoothing calculations  
+- [Q3-DocClassification](./Q3-DocClassification/solutions.md) → Worked example classification (“predictable no fun”)  
+- [Q4-HarmsOfClassification](./Q4-HarmsOfClassification/solutions.md) → Harms in classification  
+- [Q5-Metrics](./Q5-Metrics/solutions.md) → Evaluation metrics  
+  - [metrics.py](./Q5-Metrics/metrics.py)  
+- [Q6-BigramProbabilities](./Q6-BigramProbabilities/solutions.md) → Bigram probabilities and zero-probability problem  
+- [Q7-BackoffModel](./Q7-BackoffModel/solutions.md) → Backoff model example  
+- [Q8-BigramLanguageModel](./Q8-BigramLanguageModel/solutions.md) → Programming: Bigram language model  
+  - [bigram_model.py](./Q8-BigramLanguageModel/bigram_model.py)  
 
 ---
 
